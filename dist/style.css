@@ -1,0 +1,16 @@
+button {
+  margin: 8px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+input {
+  margin: 8px;
+  padding: 8px;
+}
+input body {
+  font: 100% Helvetica, sans-serif;
+  background-color: #efefef;
+}
+
+/*# sourceMappingURL=style.css.map */
